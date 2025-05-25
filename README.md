@@ -1,6 +1,6 @@
 # Aztec node start details
 
-### ek2
+### - ek2
 
 ```
 aztec start --node --archiver --sequencer \
@@ -12,7 +12,7 @@ aztec start --node --archiver --sequencer \
   --p2p.p2pIp 34.47.236.67
 ```
 
-### bmind
+### - bmind
 
 ```
 aztec start --node --archiver --sequencer \
